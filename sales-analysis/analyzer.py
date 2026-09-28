@@ -30,3 +30,5 @@ print("\nFiles saved:")
 print("- output/sales_data.json")
 print("- output/sales_data.xlsx") 
 print("- output/sales_with_totals.csv")
+
+print("test")
